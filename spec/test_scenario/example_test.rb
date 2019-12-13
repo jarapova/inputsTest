@@ -58,4 +58,9 @@ feature 'TrueAutomation.IO Capybara example' do
   # end
 
 
+  
+  #Inputs type range!!!
+    # const range =  $(("//input[@id='formControlRange']"));
+    # browser.execute("return arguments[0].value = arguments[1]", range, '30')
+    # browser.pause(5000)
 end
